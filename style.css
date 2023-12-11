@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.trlink{
+  width: 100%;
+  display: flex;
+  margin: 12px;
+}
+.trimagesize{
+  width: 40%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.mhlink{
+  width: 100%;
+  display: flex;
+  margin: 12px;
+}
+.mhimagesize{
+  width: 40%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.cblink{
+  width: 100%;
+  display: flex;
+  margin: 12px;
+}
+.cbimagesize{
+  width: 40%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.omlink{
+  width: 100%;
+  display: flex;
+  margin: 12px;
+}
+.omimagesize{
+  width: 40%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.lallink{
+  width: 100%;
+  display: flex;
+  margin: 12px;
+}
+.lalimagesize{
+  width: 40%;
+  max-width: 600px;
+  margin: 0 auto;
+}
